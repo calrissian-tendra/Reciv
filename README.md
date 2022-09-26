@@ -1,3 +1,5 @@
+Tis particular fork will eventually be rebuilt into a purpose-built front end for a post-apocalyptic rule-set based on Deciv Redux by SpacedOutChicken. This will be a long term project, as I have literally no experience with programming.
+
 # Unciv - FOSS Civ V for Android + Desktop
 
 ![](/extraImages/GithubPreviewImage.png)
